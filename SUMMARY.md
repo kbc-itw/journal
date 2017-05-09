@@ -1,4 +1,7 @@
 # Summary
 
-* [Introduction](README.md)
-
+* [README](README.md)
+* [研究会ガイドライン](guideline/README.md)
+* 活動記録
+  * [2017F/Twitter](log/2017/twitter.md)
+  * [2017F/Book](log/2017/book.md)
