@@ -4,7 +4,7 @@
   "description": "KBC ITW journal",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "gitbook build . docs"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kbc-itw/journal/issues"
   },
-  "homepage": "https://github.com/kbc-itw/journal#readme"
+  "homepage": "https://github.com/kbc-itw/journal#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.0"
+  }
 }

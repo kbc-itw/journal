@@ -5,3 +5,6 @@ _book
 *.epub
 *.mobi
 *.pdf
+
+# npm
+node_modules
