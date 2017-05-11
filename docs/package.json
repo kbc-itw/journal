@@ -4,7 +4,8 @@
   "description": "KBC ITW journal",
   "main": "index.js",
   "scripts": {
-    "build": "gitbook build . docs"
+    "build": "gitbook build . docs",
+    "serve": "gitbook serve . docs"
   },
   "repository": {
     "type": "git",
