@@ -1,6 +1,7 @@
 # Summary
 
 * [README](README.md)
+* [概要](about_KBC_IT_Workshop.md)
 * [研究会ガイドライン](guideline/README.md)
   * [定例研究](guideline/researches.md)
   * [勉強会](guideline/seminar.md)
