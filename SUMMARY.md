@@ -9,3 +9,4 @@
 * 活動記録
   * [2017F/Twitter](log/2017/twitter.md)
   * [2017F/Book](log/2017/book.md)
+  * [2017/就活談話](log/2017/speech_about_job_finding.md)
