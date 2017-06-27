@@ -37,4 +37,5 @@ GitHub Pagesでは、masterブランチの/docs配下を公開するように設
 ## 関連リンク
 + [情報技術研究会](http://kbckj.net)
 + [河原電子ビジネス専門学校](http://www.kawahara.ac.jp/kbc/)
-+ [ITエンジニア科学科ブログ](http://www.kawahara.ac.jp/kbc/advanced_blog/)
++ [ITエンジニア科学科ブログ](http://www.kawahara.ac.jp/kbc/advanced_blog/
+ryuu)
