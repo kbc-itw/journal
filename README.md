@@ -39,4 +39,4 @@ GitHub Pagesでは、masterブランチの/docs配下を公開するように設
 + [河原電子ビジネス専門学校](http://www.kawahara.ac.jp/kbc/)
 + [ITエンジニア科学科ブログ](http://www.kawahara.ac.jp/kbc/advanced_blog/)
 
-ikeda
+ikedatest
