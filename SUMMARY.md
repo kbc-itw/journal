@@ -12,3 +12,4 @@
   * [2017/就活談話](log/2017/speech_about_job_finding.md)
   * [2018F/5-15議事録](log/2018/first_harf/議事録2018-05-15.md)
   * [2018F/6-28議事録](log/2018/first_harf/議事録2018-06-28.md)
+  * [2018F/7-12議事録](log/2018/first_harf/議事録2018-07-12.md)
